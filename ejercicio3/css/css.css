@@ -1,0 +1,19 @@
+body {
+    background-color: wheat;
+    /*background :"https://sophimania.pe/media/images/2016/05/image_650_365.png"*/
+}
+
+h1 {
+    color: greenyellow;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+div{
+}
+output {
+    display: inline;
+}
